@@ -1,15 +1,14 @@
-name: chat_simulator_fixed
-description: A chat simulation app
-publish_to: "none"
-version: 1.0.0+1
 
+name: chat_simulator
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
 environment:
   sdk: ">=2.17.0 <3.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
-  flutter_swipable: ^1.1.0
 
 dev_dependencies:
   flutter_test:
